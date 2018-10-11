@@ -1,0 +1,11 @@
+C:\Users\ss0055721\source\repos\AMS_POCDEMO\AMS_POCDEMO\obj\Debug\netcoreapp2.0\AMS_POCDEMO.csprojAssemblyReference.cache
+C:\Users\ss0055721\source\repos\AMS_POCDEMO\AMS_POCDEMO\obj\Debug\netcoreapp2.0\AMS_POCDEMO.csproj.CoreCompileInputs.cache
+C:\Users\ss0055721\source\repos\AMS_POCDEMO\AMS_POCDEMO\obj\Debug\netcoreapp2.0\AMS_POCDEMO.AssemblyInfoInputs.cache
+C:\Users\ss0055721\source\repos\AMS_POCDEMO\AMS_POCDEMO\obj\Debug\netcoreapp2.0\AMS_POCDEMO.AssemblyInfo.cs
+C:\Users\ss0055721\source\repos\AMS_POCDEMO\AMS_POCDEMO\bin\Debug\netcoreapp2.0\AMS_POCDEMO.deps.json
+C:\Users\ss0055721\source\repos\AMS_POCDEMO\AMS_POCDEMO\bin\Debug\netcoreapp2.0\AMS_POCDEMO.runtimeconfig.json
+C:\Users\ss0055721\source\repos\AMS_POCDEMO\AMS_POCDEMO\bin\Debug\netcoreapp2.0\AMS_POCDEMO.runtimeconfig.dev.json
+C:\Users\ss0055721\source\repos\AMS_POCDEMO\AMS_POCDEMO\bin\Debug\netcoreapp2.0\AMS_POCDEMO.dll
+C:\Users\ss0055721\source\repos\AMS_POCDEMO\AMS_POCDEMO\bin\Debug\netcoreapp2.0\AMS_POCDEMO.pdb
+C:\Users\ss0055721\source\repos\AMS_POCDEMO\AMS_POCDEMO\obj\Debug\netcoreapp2.0\AMS_POCDEMO.dll
+C:\Users\ss0055721\source\repos\AMS_POCDEMO\AMS_POCDEMO\obj\Debug\netcoreapp2.0\AMS_POCDEMO.pdb
